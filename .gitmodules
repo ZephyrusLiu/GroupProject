@@ -19,3 +19,6 @@
 [submodule "forum-gateway-service"]
 	path = forum-gateway-service
 	url = https://github.com/ZephyrusLiu/forum-gateway-service
+[submodule "forum-message-service"]
+	path = forum-message-service
+	url = https://github.com/ZephyrusLiu/forum-message-service
