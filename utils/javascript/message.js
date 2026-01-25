@@ -84,6 +84,7 @@ class RErrorMessage extends RMessage {
   constructor(errorText = 'Unexpected error', responseCode = 501) {
     super(responseCode);
     this.message.error = errorText;
+    this.message.status = responseCode;
   }
 }
 
