@@ -1,24 +1,32 @@
 [submodule "forum-frontend"]
 	path = forum-frontend
 	url = https://github.com/ZephyrusLiu/forum-frontend
+	branch = main
 [submodule "forum-email-service"]
 	path = forum-email-service
 	url = https://github.com/ZephyrusLiu/forum-email-service
+	branch = main
 [submodule "forum-history-service"]
 	path = forum-history-service
 	url = https://github.com/ZephyrusLiu/forum-history-service
+	branch = main
 [submodule "forum-post-reply-service"]
 	path = forum-post-reply-service
 	url = https://github.com/ZephyrusLiu/forum-post-reply-service
+	branch = main
 [submodule "forum-user-service"]
 	path = forum-user-service
 	url = https://github.com/ZephyrusLiu/forum-user-service
+	branch = main
 [submodule "forum-file-service"]
 	path = forum-file-service
 	url = https://github.com/ZephyrusLiu/forum-file-service
+	branch = main
 [submodule "forum-gateway-service"]
 	path = forum-gateway-service
 	url = https://github.com/ZephyrusLiu/forum-gateway-service
+	branch = main
 [submodule "forum-message-service"]
 	path = forum-message-service
 	url = https://github.com/ZephyrusLiu/forum-message-service
+	branch = main
