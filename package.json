@@ -1,0 +1,21 @@
+{
+  "name": "forum-app",
+  "version": "1.0.0",
+  "description": "Group project for Abdul Razim, Edrick Hong, Mohammed Zakriah Ibrahim and Yuqi Liu",
+  "homepage": "https://github.com/ZephyrusLiu/GroupProject#readme",
+  "bugs": {
+    "url": "https://github.com/ZephyrusLiu/GroupProject/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZephyrusLiu/GroupProject.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "scripts": {
+  },
+  "dependencies": {
+    "jsonwebtoken": "^9.0.3"
+  }
+}
